@@ -1,0 +1,6 @@
+comandos control z ( recuperar )        
+Ctrl A (seleccionar todo)
+Entrar a la terminal ctrl alt T 
+pwd (en que carpeta estoy)
+ls (mostrar archivos a carpeta) 
+cd carpeta (cambiar carpeta)
